@@ -1,0 +1,10 @@
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\LabWork1(winforms)\bin\Debug\LabWork1(winforms).exe.config
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\LabWork1(winforms)\bin\Debug\LabWork1(winforms).exe
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\LabWork1(winforms)\bin\Debug\LabWork1(winforms).pdb
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\LabWork1(winforms)\obj\Debug\LabWork1(winforms).csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\LabWork1(winforms)\obj\Debug\LabWork1_winforms_.Properties.Resources.resources
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\LabWork1(winforms)\obj\Debug\LabWork1(winforms).csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\LabWork1(winforms)\obj\Debug\LabWork1(winforms).csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\LabWork1(winforms)\obj\Debug\LabWork1(winforms).exe
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\LabWork1(winforms)\obj\Debug\LabWork1(winforms).pdb
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\LabWork1(winforms)\obj\Debug\LabWork1_winforms_.Calculator.resources

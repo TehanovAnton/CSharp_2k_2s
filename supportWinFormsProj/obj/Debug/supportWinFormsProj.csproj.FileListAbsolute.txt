@@ -1,0 +1,10 @@
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\supportWinFormsProj\bin\Debug\supportWinFormsProj.exe.config
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\supportWinFormsProj\bin\Debug\supportWinFormsProj.exe
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\supportWinFormsProj\bin\Debug\supportWinFormsProj.pdb
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\supportWinFormsProj\obj\Debug\supportWinFormsProj.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\supportWinFormsProj\obj\Debug\supportWinFormsProj.Form.resources
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\supportWinFormsProj\obj\Debug\supportWinFormsProj.Properties.Resources.resources
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\supportWinFormsProj\obj\Debug\supportWinFormsProj.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\supportWinFormsProj\obj\Debug\supportWinFormsProj.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\supportWinFormsProj\obj\Debug\supportWinFormsProj.exe
+C:\Users\Anton\source\repos\pacei_NV_OOTP\лабораторные\решения\supportWinFormsProj\obj\Debug\supportWinFormsProj.pdb
