@@ -1,0 +1,1 @@
+[{"lecturer":{"departament":"Кафедра ИСиТ","nameLecturer":"плющ","office":12},"name":"мат","course":1,"semester":1,"specialty":"ПОИТ","controlType":"Зачёт","numLectures":12,"numLab":12},{"lecturer":{"departament":"Кафедра ИиВД","nameLecturer":"антон","office":11},"name":"мат","course":3,"semester":1,"specialty":"ПОИТ","controlType":"Зачёт","numLectures":13,"numLab":14}]

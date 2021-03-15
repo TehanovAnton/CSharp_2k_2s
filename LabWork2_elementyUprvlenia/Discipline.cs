@@ -15,6 +15,7 @@ namespace LabWork2_elementyUprvlenia
     public partial class Discipline : Form
     {
         private SaveJson fields;
+        private Lector lector;
         private Action<KeyPressEventArgs> AddLetter = (e) =>
         {
             char entered = e.KeyChar;
@@ -51,6 +52,7 @@ namespace LabWork2_elementyUprvlenia
             fields.curs = firstCurs.Checked ? "курс: 1" : "курс: 2";
             fields.semestr = firstSemestr.Checked ? "семестр: 1" : "семестр: 2";
             fields.knowledgeControl = akzamen.Checked ? "экзамен" : "зачёт";
+
             lector.GetFieldsObjFromDiscipline(ref fields);
         }
         private void ShowSaved(SaveJson saved)
@@ -65,9 +67,7 @@ namespace LabWork2_elementyUprvlenia
                     "кафедра: {7}\r\n" +
                     "аудитория: {8}",
                     saved.disicplineName, saved.labNumber, saved.lecNumber, saved.curs, saved.semestr, saved.knowledgeControl, saved.fio, saved.cafedra, saved.audienceNumber);
-        }
-
-        private Lector lector;
+        }        
 
         public Discipline()
         {
